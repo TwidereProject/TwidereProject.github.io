@@ -6,8 +6,8 @@
         "auth_type": "oauth",
         "same_oauth_url": true,
         "no_version_suffix": false,
-        "consumer_key": "MUUBibXUognm6e9vbzrUIqPkt",
-        "consumer_secret": "l2uWAgQkoHvDfM2PrRFx2WN4h7QIUIktmxyeTAqRo6TkGCtNKy",
+        "consumer_key": "hPL2yzQAung0yuqGIixGI8pYO",
+        "consumer_secret": "Q69IRc0cmnqY9A1zcs5DhGgXup2GoOZsqT1RCkq9CW5fng47Rl",
         "sign_up_url": "https://twitter.com/signup",
         "is_builtin": true
     },
